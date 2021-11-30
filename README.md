@@ -1,6 +1,5 @@
 # flutter_klient_lightbox_test
 
-Testowa aplikacja LightBox dla klientów
 
 ## Getting Started
 
